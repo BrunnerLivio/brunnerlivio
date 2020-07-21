@@ -59,4 +59,8 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
 
+<br />
+
+![Notepad](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif)
+
 </div>
