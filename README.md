@@ -1,26 +1,28 @@
+<!-- Hero Header -->
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
 
-  <p>My name is Livio Brunner and I like Node.js, TypeScript and Dogs.</p>
+  <p><strong>My name is Livio Brunner and I like Node.js, TypeScript and Dogs.</strong></p>
 
   <br />
 
 </div>
+<!-- Social -->
 <hr />
 <table width="100%">
 <tr>
 <td align="center">
 <a href="https://brunnerliv.io">
-Visit my personal website 
+<strong>Visit my personal website </strong>
 <br />
 <br />
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;</span> 
-<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true">
+<img alt="Globe" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true">
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -29,13 +31,13 @@ Visit my personal website
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
 </td>
 <td align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues">
-Write into my guest book <br />
+<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/new?template=Guestbook_entry.md">
+<strong>Write into my guest book</strong><br />
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;</span> 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/book.gif"> 
+<span>&nbsp;&nbsp;&nbsp;</span> 
+<img alt="Book" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/book.gif"> 
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -47,3 +49,14 @@ Write into my guest book <br />
 </table>
 
 <hr />
+
+<!-- Visitors -->
+
+<div align="center">
+<strong> Thanks for visiting my profile, see you next time!</strong>
+<br />
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+
+</div>
