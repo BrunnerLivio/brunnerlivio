@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
 
@@ -20,7 +20,7 @@ Visit my personal website
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;</span> 
-<img src="images/globe.gif">
+<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true">
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -35,7 +35,7 @@ Write into my guest book <br />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;</span> 
-<img src="images/book.gif"> 
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/book.gif"> 
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>

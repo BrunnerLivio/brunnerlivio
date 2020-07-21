@@ -5,7 +5,7 @@ title: ''
 ---
 
 <div align="center">
-  <img src="../../images/guestbook.png" alt="Guestbook" />
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/guestbook.png?raw=true" alt="Guestbook" />
 </div>
 
 <!--
