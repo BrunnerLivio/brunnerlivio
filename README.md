@@ -53,7 +53,8 @@
 <!-- Visitors -->
 
 <div align="center">
-<strong> Thanks for visiting my profile, see you next time!</strong>
+
+![Thanks for visiting](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
 <br />
 <br />
 
