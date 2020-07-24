@@ -10,7 +10,7 @@
         .marquee strong {
           color: limegreen;
           position: absolute;
-          font-size: 2em;
+          font-size: 1.2em;
           width: 100%;
           height: 100%;
           margin: 0;
@@ -21,7 +21,7 @@
 
           animation: marquee 7s linear infinite;
         }
-        /* Move it (define the animation) */
+
         @keyframes marquee {
           0%   { 
             transform: translateX(100%); 		
