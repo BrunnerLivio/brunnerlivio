@@ -7,8 +7,8 @@
   <br />
 
 </div>
+
 <!-- Social -->
-<hr />
 <table width="100%">
 <tr>
 <td align="center">
@@ -49,14 +49,11 @@
 </tr>
 </table>
 
-<hr />
-
 <!-- Footer -->
 
 <div align="center">
 
-<img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
