@@ -32,7 +32,7 @@
 </td>
 <td align="center">
 <a href="https://github.com/BrunnerLivio/brunnerlivio/issues/new?template=Guestbook_entry.md">
-<strong>Write into my guest book</strong>
+<strong>Sign my guest book</strong>
 <br />
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
