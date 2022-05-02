@@ -50,10 +50,10 @@ jobs:
             };
             const fileSystem = require('fs');
             const readme = fileSystem.readFileSync('README.md', 'utf8');
-            fileSystem.writeFileSync('README.md', readme.replace(/(?<=## Guestbook.*\n)[\S\s]*?(?=#|$(?![\n]))/gm, renderComments(result.repository.issue.comments.nodes)), 'utf8');
+            fileSystem.writeFileSync('README.md', readme.replace(/(?<=<!-- Guestbook -->.*\n)[\S\s]*?(?=<!-- \/Guestbook -->|$(?![\n]))/gm, renderComments(result.repository.issue.comments.nodes)), 'utf8');
       - name: Push guestbook update
         run: |
           git config --global user.name 'Github Actions'
-          git config --global user.email '1105080+brunnerlivio@users.noreply.github.com'
-          git commit -am 'update guestbook'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -am ':sparkles: update guestbook'
           git push
