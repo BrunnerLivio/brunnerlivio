@@ -15,7 +15,7 @@
 
         .scale-items {
           line-height: 50px;
-          transform: scale(0.3);
+          transform: scale(0.6);
           animation: scale 3s linear infinite;
           left: 0;
           top: 0;
@@ -34,13 +34,13 @@
 
         @keyframes scale {
           0%   { 
-            transform: scale(0.3); 		
+            transform: scale(0.6); 		
           }
           50% { 
             transform: scale(1); 
           }
           100% { 
-            transform: scale(0.3); 
+            transform: scale(0.6); 
           }
 
         }
