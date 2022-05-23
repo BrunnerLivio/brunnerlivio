@@ -46,7 +46,7 @@ jobs:
             const renderComments = (comments) => {
               return comments.reduce((prev, curr) => {
                 const sanitizedText = curr.bodyText.replace(/(\r\n|\r|\n)/g, "<br />").replace('|', '&#124;');
-                return `${prev}|[![${curr.author.login}](${curr.author.avatarUrl})${curr.author.login}](${curr.author.url})|${new Date(curr.updatedAt).toLocaleString()}|${sanitizedText}|\n`;
+                return `${prev}| <a href="${curr.author.url}"><img width="24" src="${curr.author.avatarUrl}" alt="${curr.author.login}" /> ${curr.author.login}</a> |${new Date(curr.updatedAt).toLocaleString()}|${sanitizedText}|\n`;
               }, "| Name | Date | Message |\n|---|---|---|\n");
             };
             const fileSystem = require('fs');
