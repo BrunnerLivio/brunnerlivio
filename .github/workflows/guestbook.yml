@@ -23,7 +23,7 @@ jobs:
             const query = `query($owner:String!, $name:String!, $issue_number:Int!) {
               repository(owner:$owner, name:$name){
                 issue(number:$issue_number) {
-                  comments(last:5,orderBy:{direction:DESC, field:UPDATED_AT}) {
+                  comments(first:5,orderBy:{direction:DESC, field:UPDATED_AT}) {
                     nodes {
                       author {
                         avatarUrl(size: 24)
