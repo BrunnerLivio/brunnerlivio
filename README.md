@@ -61,11 +61,11 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/sickOscar"><img width="24" src="https://avatars.githubusercontent.com/u/712744?s=24&v=4" alt="sickOscar" /> sickOscar</a> |8/24/2022, 4:28:35 PM|this is how the internet should look like|
 | <a href="https://github.com/Natha-Rey"><img width="24" src="https://avatars.githubusercontent.com/u/75953657?s=24&u=b4784984940ac5d80a27bf6aa8e97ef822484647&v=4" alt="Natha-Rey" /> Natha-Rey</a> |8/23/2022, 3:20:54 AM|Really nice! 🤩|
 | <a href="https://github.com/Hellzbellz123"><img width="24" src="https://avatars.githubusercontent.com/u/31550512?s=24&u=c063f07b61ed3c3019aa46bd20e69dc937965feb&v=4" alt="Hellzbellz123" /> Hellzbellz123</a> |8/10/2022, 2:56:06 AM|im in love, retro <3|
 | <a href="https://github.com/telephone-line"><img width="24" src="https://avatars.githubusercontent.com/u/110793745?s=24&u=bfd929bec685b70659eb89a4e2a2b0e8632e6cec&v=4" alt="telephone-line" /> telephone-line</a> |8/8/2022, 1:17:36 AM|Profile is sick!|
 | <a href="https://github.com/pt4k"><img width="24" src="https://avatars.githubusercontent.com/u/93083454?s=24&u=78d054b4a4fbaace4aff37200f6e811e9fc60d5a&v=4" alt="pt4k" /> pt4k</a> |8/7/2022, 12:13:19 PM|Cool profile 👍|
-| <a href="https://github.com/oatMilk223"><img width="24" src="https://avatars.githubusercontent.com/u/64684444?s=24&u=ded211aceaee29ec08903e26c1d110f2b9baefc1&v=4" alt="oatMilk223" /> oatMilk223</a> |8/7/2022, 6:23:41 AM|noiceee|
 <!-- /Guestbook -->
 
 <!-- Footer -->
