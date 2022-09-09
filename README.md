@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/personal_note.svg" />
+  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
   <br />
   <br />
 
@@ -21,7 +21,7 @@
 
 <p>
 
-<img alt="Globe" height="80" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/globe.gif">
+<img alt="Globe" height="80" src="images/globe.gif">
 </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 
 <p>
-<img height="100" alt="Music" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/music.gif"> 
+<img height="100" alt="Music" src="images/music.gif"> 
 </a>
 </p>
 
@@ -44,8 +44,9 @@
 </tr>
 </table>
 
+<div align="center">
 <a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
-
+</div>
 
 <!-- Guestbook -->
 | Name | Date | Message |
