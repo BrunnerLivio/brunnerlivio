@@ -51,11 +51,11 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/Cere-0"><img width="24" src="https://avatars.githubusercontent.com/u/105999339?s=24&u=536ae754fac16224b4413b263c1011ad124f417e&v=4" alt="Cere-0" /> Cere-0</a> |9/30/2022, 8:04:48 PM|This is some old-school cool haha. Good job.|
 | <a href="https://github.com/lmssr"><img width="24" src="https://avatars.githubusercontent.com/u/44872924?s=24&u=c692f29b24caab54d561d11ed15af1d3dbbabbb1&v=4" alt="lmssr" /> lmssr</a> |9/28/2022, 8:05:36 AM|Hi Livio 👋<br />Just a little message to say that your profile reminds me a lot of things of the good old time of the intern...|
 | <a href="https://github.com/Luidiblu"><img width="24" src="https://avatars.githubusercontent.com/u/40251675?s=24&u=8e0cd4fc115e6101912f4a559ebd4d2c1f7818d1&v=4" alt="Luidiblu" /> Luidiblu</a> |9/14/2022, 5:00:26 AM||
 | <a href="https://github.com/Luidiblu"><img width="24" src="https://avatars.githubusercontent.com/u/40251675?s=24&u=8e0cd4fc115e6101912f4a559ebd4d2c1f7818d1&v=4" alt="Luidiblu" /> Luidiblu</a> |9/14/2022, 4:57:50 AM||
 | <a href="https://github.com/Luidiblu"><img width="24" src="https://avatars.githubusercontent.com/u/40251675?s=24&u=8e0cd4fc115e6101912f4a559ebd4d2c1f7818d1&v=4" alt="Luidiblu" /> Luidiblu</a> |9/14/2022, 4:49:50 AM|Name<br />Date<br />Message|
-| <a href="https://github.com/Luidiblu"><img width="24" src="https://avatars.githubusercontent.com/u/40251675?s=24&u=8e0cd4fc115e6101912f4a559ebd4d2c1f7818d1&v=4" alt="Luidiblu" /> Luidiblu</a> |9/14/2022, 4:48:37 AM|Guestbook (🆕🖊️ add an entry)<br /><br /><br /><br /><br />Name<br />Date<br />Message<br /><br /><br /><br /><br />Luidiblu...|
 <!-- /Guestbook -->
 
 <!-- Footer -->
