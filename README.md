@@ -51,11 +51,11 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/stultus"><img width="24" src="https://avatars.githubusercontent.com/u/328309?s=24&u=c2c891e36aa256a1ed769672130028ce516cad5b&v=4" alt="stultus" /> stultus</a> |10/17/2022, 3:08:47 PM|Pretty Cool :)|
 | <a href="https://github.com/rochita07"><img width="24" src="https://avatars.githubusercontent.com/u/42886269?s=24&u=f2f9dece9efbcfac30a1e84d7697086208bfe9dc&v=4" alt="rochita07" /> rochita07</a> |10/2/2022, 4:17:47 AM|Hey, this is Rochita, from India. This is a pretty cool idea!|
 | <a href="https://github.com/Cere-0"><img width="24" src="https://avatars.githubusercontent.com/u/105999339?s=24&u=536ae754fac16224b4413b263c1011ad124f417e&v=4" alt="Cere-0" /> Cere-0</a> |9/30/2022, 8:04:48 PM|This is some old-school cool haha. Good job.|
 | <a href="https://github.com/lmssr"><img width="24" src="https://avatars.githubusercontent.com/u/44872924?s=24&u=c692f29b24caab54d561d11ed15af1d3dbbabbb1&v=4" alt="lmssr" /> lmssr</a> |9/28/2022, 8:05:36 AM|Hi Livio 👋<br />Just a little message to say that your profile reminds me a lot of things of the good old time of the intern...|
-| <a href="https://github.com/Luidiblu"><img width="24" src="https://avatars.githubusercontent.com/u/40251675?s=24&u=8e0cd4fc115e6101912f4a559ebd4d2c1f7818d1&v=4" alt="Luidiblu" /> Luidiblu</a> |9/14/2022, 5:00:26 AM||
-| <a href="https://github.com/Luidiblu"><img width="24" src="https://avatars.githubusercontent.com/u/40251675?s=24&u=8e0cd4fc115e6101912f4a559ebd4d2c1f7818d1&v=4" alt="Luidiblu" /> Luidiblu</a> |9/14/2022, 4:57:50 AM||
+| <a href="https://github.com/Luidiblu"><img width="24" src="https://avatars.githubusercontent.com/u/40251675?s=24&u=68e9671f82c68bc376542c1356cc4ca08da5a7e7&v=4" alt="Luidiblu" /> Luidiblu</a> |9/14/2022, 5:00:26 AM||
 <!-- /Guestbook -->
 
 <!-- Footer -->
