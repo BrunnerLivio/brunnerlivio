@@ -51,11 +51,11 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/automatlog"><img width="24" src="https://avatars.githubusercontent.com/u/72098281?s=24&u=5501b00cb18c0afea0fac116c9eb0c32adb686f8&v=4" alt="automatlog" /> automatlog</a> |10/29/2022, 10:33:18 AM|Nice ReadME.md|
 | <a href="https://github.com/guilhermejcgois"><img width="24" src="https://avatars.githubusercontent.com/u/1348723?s=24&u=416e15ed76c5c7c7b5cee9859e31e72bee193a2f&v=4" alt="guilhermejcgois" /> guilhermejcgois</a> |10/21/2022, 1:35:44 AM|Great readme! Old but gold good feelings ☺️|
 | <a href="https://github.com/marianaapereira"><img width="24" src="https://avatars.githubusercontent.com/u/29315759?s=24&u=60c01759bc0b21c1c31ed452f000587fe36adb55&v=4" alt="marianaapereira" /> marianaapereira</a> |10/17/2022, 9:53:34 PM|I'm obsessed with your readme|
 | <a href="https://github.com/stultus"><img width="24" src="https://avatars.githubusercontent.com/u/328309?s=24&u=c2c891e36aa256a1ed769672130028ce516cad5b&v=4" alt="stultus" /> stultus</a> |10/17/2022, 3:08:47 PM|Pretty Cool :)|
 | <a href="https://github.com/rochita07"><img width="24" src="https://avatars.githubusercontent.com/u/42886269?s=24&u=f2f9dece9efbcfac30a1e84d7697086208bfe9dc&v=4" alt="rochita07" /> rochita07</a> |10/2/2022, 4:17:47 AM|Hey, this is Rochita, from India. This is a pretty cool idea!|
-| <a href="https://github.com/Cere-0"><img width="24" src="https://avatars.githubusercontent.com/u/105999339?s=24&u=536ae754fac16224b4413b263c1011ad124f417e&v=4" alt="Cere-0" /> Cere-0</a> |9/30/2022, 8:04:48 PM|This is some old-school cool haha. Good job.|
 <!-- /Guestbook -->
 
 <!-- Footer -->
