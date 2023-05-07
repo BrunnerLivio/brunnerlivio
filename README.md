@@ -51,11 +51,11 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/kztera"><img width="24" src="https://avatars.githubusercontent.com/u/116504460?s=24&u=195275199dc9f0ee934974ca40c7424acf2b5c6b&v=4" alt="kztera" /> kztera</a> |5/7/2023, 5:20:47 PM|lfmao xD I love IE|
 | <a href="https://github.com/GavenJr"><img width="24" src="https://avatars.githubusercontent.com/u/61298885?s=24&u=a4b1d2ad76dd494d7ad8b352bac6a55fca39580a&v=4" alt="GavenJr" /> GavenJr</a> |5/3/2023, 5:01:37 AM|W o w! So cool! but where are the cats? you can't have a retro page without cats!|
 | <a href="https://github.com/ziadOUA"><img width="24" src="https://avatars.githubusercontent.com/u/111606433?s=24&u=c7fc49a126b26b5fdedc298efc26e5b314b99f66&v=4" alt="ziadOUA" /> ziadOUA</a> |4/30/2023, 5:04:48 PM|Hi !|
 | <a href="https://github.com/FabianAronsson"><img width="24" src="https://avatars.githubusercontent.com/u/54532837?s=24&u=b27a90b5dd83fffc3d96642b73b446bf7d41fa8c&v=4" alt="FabianAronsson" /> FabianAronsson</a> |4/26/2023, 3:46:50 PM|Very cool retro design ;D|
 | <a href="https://github.com/does-stuff"><img width="24" src="https://avatars.githubusercontent.com/u/64072077?s=24&u=fd29d5d706cc497d9a1d4b439f8d18689c3bc9c6&v=4" alt="does-stuff" /> does-stuff</a> |4/25/2023, 8:41:59 PM|Came here for inspiration. I did not leave disappointed.|
-| <a href="https://github.com/RichKMLS"><img width="24" src="https://avatars.githubusercontent.com/u/105183376?s=24&u=0aed124c6b90b096b4dfa4a88ed5bbf0a2ef8a10&v=4" alt="RichKMLS" /> RichKMLS</a> |4/21/2023, 9:23:21 PM|😁❤️|
 <!-- /Guestbook -->
 
 <!-- Footer -->
