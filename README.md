@@ -51,11 +51,11 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/acidvegas"><img width="24" src="https://avatars.githubusercontent.com/u/14335118?s=24&u=8eb5b7c6a097c5350577bd278f3d4278b4c41409&v=4" alt="acidvegas" /> acidvegas</a> |9/12/2023, 9:52:45 PM|WUDDUP FROM IRC.SUPERNETS.ORG #SUPERBOWL|
 | <a href="https://github.com/ZakaryElkins"><img width="24" src="https://avatars.githubusercontent.com/u/138543583?s=24&v=4" alt="ZakaryElkins" /> ZakaryElkins</a> |9/12/2023, 4:21:19 PM|Very cool|
 | <a href="https://github.com/danthedev123"><img width="24" src="https://avatars.githubusercontent.com/u/54577461?s=24&u=71bb66b4937bb02a3522b9e69e6fac6a74a6197b&v=4" alt="danthedev123" /> danthedev123</a> |9/9/2023, 3:59:27 PM|Nice readme 💯|
 | <a href="https://github.com/rbnyng"><img width="24" src="https://avatars.githubusercontent.com/u/59581322?s=24&v=4" alt="rbnyng" /> rbnyng</a> |9/9/2023, 5:09:34 AM|😮|
 | <a href="https://github.com/ferrami"><img width="24" src="https://avatars.githubusercontent.com/u/86069304?s=24&u=6d6e9286688a8dd741b80ac6ba542fad0b6048b8&v=4" alt="ferrami" /> ferrami</a> |9/8/2023, 5:29:18 PM|Hi there! I came across your README and was really impressed by the cool ideas you've implemented. Truly inspiring!|
-| <a href="https://github.com/CamoCatX"><img width="24" src="https://avatars.githubusercontent.com/u/69330490?s=24&u=d62d9f6bdc881af6a086c1edaeb71299dab1da40&v=4" alt="CamoCatX" /> CamoCatX</a> |8/31/2023, 10:33:35 PM|“Welcome to the desert of the real.”|
 <!-- /Guestbook -->
 
 <!-- Footer -->
