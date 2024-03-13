@@ -51,11 +51,11 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/Tzal3x"><img width="24" src="https://avatars.githubusercontent.com/u/33265837?s=24&u=bb00252d2dd94663833d03f825fe473d22481b19&v=4" alt="Tzal3x" /> Tzal3x</a> |3/13/2024, 5:46:54 AM|so cool!|
 | <a href="https://github.com/codewithriza"><img width="24" src="https://avatars.githubusercontent.com/u/90960705?s=24&u=a9a6ee21b3029e47d317584b5eded07825c8ce26&v=4" alt="codewithriza" /> codewithriza</a> |3/13/2024, 12:53:20 AM|Hi|
 | <a href="https://github.com/GabiDragh"><img width="24" src="https://avatars.githubusercontent.com/u/151403269?s=24&u=5c75e0f32630150200ba954e02aa921b95198bba&v=4" alt="GabiDragh" /> GabiDragh</a> |2/28/2024, 12:54:03 AM|Noughties vibes...sweet!|
 | <a href="https://github.com/cachesdev"><img width="24" src="https://avatars.githubusercontent.com/u/59543366?s=24&u=9541239397ecb385c4aea4c28cb26143a158f0d1&v=4" alt="cachesdev" /> cachesdev</a> |2/23/2024, 11:26:18 PM|the real IE6 experience|
 | <a href="https://github.com/riccovi"><img width="24" src="https://avatars.githubusercontent.com/u/103573129?s=24&v=4" alt="riccovi" /> riccovi</a> |2/22/2024, 1:40:10 PM|Nice!|
-| <a href="https://github.com/sapalazz"><img width="24" src="https://avatars.githubusercontent.com/u/71673769?s=24&u=1e2eb801a5824c1033ac27aa640c6eab1f8dee9b&v=4" alt="sapalazz" /> sapalazz</a> |2/15/2024, 8:36:00 PM|Old school rocks! 👊|
 <!-- /Guestbook -->
 
 <!-- Footer -->
