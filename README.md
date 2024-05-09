@@ -51,11 +51,11 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/joshuadanpeterson"><img width="24" src="https://avatars.githubusercontent.com/u/6033094?s=24&u=6ee36ad19855bb7a7b39c137f3a92417205d4c61&v=4" alt="joshuadanpeterson" /> joshuadanpeterson</a> |5/9/2024, 12:02:48 AM|Seeing this brought back a lot of good memories. I particularly love the visitor counter 😃|
 | <a href="https://github.com/valrichter"><img width="24" src="https://avatars.githubusercontent.com/u/67121197?s=24&u=e509675e892f9a3c5369ef55afe05d0c46fe9c4b&v=4" alt="valrichter" /> valrichter</a> |4/22/2024, 9:14:28 PM|i love this ❤️|
 | <a href="https://github.com/Riveong"><img width="24" src="https://avatars.githubusercontent.com/u/53504975?s=24&u=825ad6c779adb5133f6596901b4f2d6bcd836e2f&v=4" alt="Riveong" /> Riveong</a> |4/19/2024, 9:59:13 AM|childhood core restored|
 | <a href="https://github.com/Pinkuagrawal28"><img width="24" src="https://avatars.githubusercontent.com/u/92142824?s=24&u=dfb2bbf8b9f6d67c5e610abf061cba180aab825f&v=4" alt="Pinkuagrawal28" /> Pinkuagrawal28</a> |4/11/2024, 7:14:34 PM|😉liked this theme|
 | <a href="https://github.com/Xavierlarsson"><img width="24" src="https://avatars.githubusercontent.com/u/125981375?s=24&u=b9d3aa12406c6222b1ab765f84e96b595f641914&v=4" alt="Xavierlarsson" /> Xavierlarsson</a> |4/11/2024, 2:53:55 AM|Nostalgic...|
-| <a href="https://github.com/Jozaru27"><img width="24" src="https://avatars.githubusercontent.com/u/55911630?s=24&u=ea291fcfc8257d2e9dfa98dc17b059d3d43d6ade&v=4" alt="Jozaru27" /> Jozaru27</a> |4/10/2024, 1:22:12 PM|awesome|
 <!-- /Guestbook -->
 
 <!-- Footer -->
