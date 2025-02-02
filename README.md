@@ -51,11 +51,11 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/joelbarton406"><img width="24" src="https://avatars.githubusercontent.com/u/86934356?s=24&u=534a2db65f3ab6bc78a6ec87cffd9520c62e5476&v=4" alt="joelbarton406" /> joelbarton406</a> |2/2/2025, 8:05:59 PM|Very cute 🦌|
 | <a href="https://github.com/caioabrahao"><img width="24" src="https://avatars.githubusercontent.com/u/124058798?s=24&u=aaaa32650e3523dc0b9d9e17cdf91718023570e7&v=4" alt="caioabrahao" /> caioabrahao</a> |1/29/2025, 11:54:00 PM|no way this works, awesome!|
 | <a href="https://github.com/sudojoao"><img width="24" src="https://avatars.githubusercontent.com/u/162704766?s=24&u=3e86b664f79343e05d087196302d60013beadea1&v=4" alt="sudojoao" /> sudojoao</a> |1/29/2025, 3:46:18 AM|very cool|
 | <a href="https://github.com/usefmahmud"><img width="24" src="https://avatars.githubusercontent.com/u/129234471?s=24&u=298677447c3161407de316a54ee02923ab558bcc&v=4" alt="usefmahmud" /> usefmahmud</a> |1/26/2025, 11:12:45 AM|Amazing|
 | <a href="https://github.com/yashikacodes"><img width="24" src="https://avatars.githubusercontent.com/u/133915106?s=24&u=6c272318e800ffa334bca7a72ccdd0c9e0a20c97&v=4" alt="yashikacodes" /> yashikacodes</a> |1/25/2025, 1:01:18 AM|Great workkk Livio :) !!!|
-| <a href="https://github.com/SD-W1972"><img width="24" src="https://avatars.githubusercontent.com/u/93013194?s=24&u=e1679b57f898b987a356ffcd3f50223282c75d8d&v=4" alt="SD-W1972" /> SD-W1972</a> |1/17/2025, 12:20:33 PM|rust > javascript<br /><br />agreed !|
 <!-- /Guestbook -->
 
 <!-- Footer -->
