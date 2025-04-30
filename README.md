@@ -51,11 +51,11 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/LucasFASouza"><img width="24" src="https://avatars.githubusercontent.com/u/32396925?s=24&u=5a8ee3008737bdb5f5751a6929fe2c035c184d2b&v=4" alt="LucasFASouza" /> LucasFASouza</a> |4/30/2025, 5:55:58 PM|cool cool cool|
 | <a href="https://github.com/mujairkitten"><img width="24" src="https://avatars.githubusercontent.com/u/195404625?s=24&u=d6d1ed7c65d67b440d12ced819c7b3f176c3aea6&v=4" alt="mujairkitten" /> mujairkitten</a> |4/27/2025, 4:12:52 AM|hello 👋 :3|
 | <a href="https://github.com/abdullayevf"><img width="24" src="https://avatars.githubusercontent.com/u/91544300?s=24&u=c1c0ec8de1e64a2e0a5fb4825aa50dc613725b28&v=4" alt="abdullayevf" /> abdullayevf</a> |4/22/2025, 12:55:05 PM|Cool profile indeed, hi from Uzbekistan 🇺🇿|
 | <a href="https://github.com/LeNetQuiParle"><img width="24" src="https://avatars.githubusercontent.com/u/177822582?s=24&u=7fe6d766ac23ba32b2cf71176f39fcc0247e8d47&v=4" alt="LeNetQuiParle" /> LeNetQuiParle</a> |4/8/2025, 6:21:55 PM|cool profile and animations ! :)|
 | <a href="https://github.com/antitheus185"><img width="24" src="https://avatars.githubusercontent.com/u/113473346?s=24&u=e67f0f6f6d6c649ac1b3b6a5913e4e0c91a9bbb0&v=4" alt="antitheus185" /> antitheus185</a> |4/8/2025, 7:00:14 AM|hi! this is very cool :3|
-| <a href="https://github.com/luvcie"><img width="24" src="https://avatars.githubusercontent.com/u/166442204?s=24&u=ef8b9519884de8b2183faa657f94dee6224aad03&v=4" alt="luvcie" /> luvcie</a> |4/6/2025, 11:05:29 PM|henlo|
 <!-- /Guestbook -->
 
 <!-- Footer -->
