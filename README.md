@@ -51,11 +51,11 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/angelamcosta"><img width="24" src="https://avatars.githubusercontent.com/u/14792447?s=24&u=331aef502a77bc55233c30333368980e4babf819&v=4" alt="angelamcosta" /> angelamcosta</a> |7/14/2025, 3:44:10 PM|はじめまして、ブラジル人です ❥|
 | <a href="https://github.com/Radajaaj"><img width="24" src="https://avatars.githubusercontent.com/u/64104035?s=24&u=f4bd56a1d9c4ae1d42f6bccf5ba62d265f1ad83f&v=4" alt="Radajaaj" /> Radajaaj</a> |7/11/2025, 9:58:24 PM|🍍|
 | <a href="https://github.com/sainath-666"><img width="24" src="https://avatars.githubusercontent.com/u/96917328?s=24&u=1d02b47b8b6d46ed543591404e84664e1116cd9e&v=4" alt="sainath-666" /> sainath-666</a> |7/8/2025, 4:45:44 PM|Hi, I am a WEB DEVELOPER|
 | <a href="https://github.com/Quimisagi"><img width="24" src="https://avatars.githubusercontent.com/u/26472514?s=24&u=f88c9f0ad1b5b8251f77ea34b151d6b7e10fcf28&v=4" alt="Quimisagi" /> Quimisagi</a> |6/26/2025, 6:23:38 AM|Hello from Japan|
 | <a href="https://github.com/nahtanpng"><img width="24" src="https://avatars.githubusercontent.com/u/93049899?s=24&u=8d862c24f64c128c215718ef1df759ebf4145c6b&v=4" alt="nahtanpng" /> nahtanpng</a> |6/25/2025, 10:04:12 PM|Hello from São Paulo! 👋|
-| <a href="https://github.com/rdx40"><img width="24" src="https://avatars.githubusercontent.com/u/138113713?s=24&u=c53bd2857314cdd169e97db0f38361fdd2cc5441&v=4" alt="rdx40" /> rdx40</a> |6/23/2025, 10:06:55 AM|Yelloo everynyan|
 <!-- /Guestbook -->
 
 <!-- Footer -->
