@@ -51,11 +51,11 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/Leticiakkkkkk"><img width="24" src="https://avatars.githubusercontent.com/u/73072063?s=24&u=b5402b8bc63e4470bbf417024a6ef01f2e69815d&v=4" alt="Leticiakkkkkk" /> Leticiakkkkkk</a> |8/16/2025, 10:33:36 AM|Hello from 🇧🇷🇧🇷🇧🇷|
 | <a href="https://github.com/PS2Comrade"><img width="24" src="https://avatars.githubusercontent.com/u/184096947?s=24&u=cdf4d24bdb0a4c5da44d9c78010b797e29d4b036&v=4" alt="PS2Comrade" /> PS2Comrade</a> |7/30/2025, 12:35:11 PM|Hello from Bangladesh!!! 🇧🇩 🇧🇩|
 | <a href="https://github.com/keethesh"><img width="24" src="https://avatars.githubusercontent.com/u/30286645?s=24&u=703c5c6ed5112927131c9896d71b6db86e5c802d&v=4" alt="keethesh" /> keethesh</a> |7/22/2025, 1:27:40 PM|I got inspired by this, and did my own version! Feel free to have a look at my profile and leave a message!|
 | <a href="https://github.com/keethesh"><img width="24" src="https://avatars.githubusercontent.com/u/30286645?s=24&u=703c5c6ed5112927131c9896d71b6db86e5c802d&v=4" alt="keethesh" /> keethesh</a> |7/22/2025, 12:24:35 AM|Hello from Mauritius|
 | <a href="https://github.com/ema28pro"><img width="24" src="https://avatars.githubusercontent.com/u/183181665?s=24&u=0e5e8179795e6ff7516c5da3ed75b2ba639c7e1b&v=4" alt="ema28pro" /> ema28pro</a> |7/15/2025, 10:51:00 PM|Wow, hello from Colombia|
-| <a href="https://github.com/angelamcosta"><img width="24" src="https://avatars.githubusercontent.com/u/14792447?s=24&u=331aef502a77bc55233c30333368980e4babf819&v=4" alt="angelamcosta" /> angelamcosta</a> |7/14/2025, 3:44:10 PM|はじめまして、ブラジル人です ❥|
 <!-- /Guestbook -->
 
 <!-- Footer -->
