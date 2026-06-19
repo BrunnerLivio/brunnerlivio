@@ -51,11 +51,11 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/kameron-ctrl"><img width="24" src="https://avatars.githubusercontent.com/u/79770549?s=24&u=8e2c7a2085dd880a5639d218490540be6aa17ef7&v=4" alt="kameron-ctrl" /> kameron-ctrl</a> |6/19/2026, 5:53:52 AM|Wow cool|
+| <a href="https://github.com/xxspell"><img width="24" src="https://avatars.githubusercontent.com/u/74972395?s=24&u=8e2b67914280029345469d55c47ee309068b20e1&v=4" alt="xxspell" /> xxspell</a> |6/19/2026, 5:25:20 AM|⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖|
 | <a href="https://github.com/jossanchcald"><img width="24" src="https://avatars.githubusercontent.com/u/187843093?s=24&v=4" alt="jossanchcald" /> jossanchcald</a> |6/19/2026, 4:53:03 AM|Hi Inam and everyone! Josue here :)|
 | <a href="https://github.com/inamcodes"><img width="24" src="https://avatars.githubusercontent.com/u/157798866?s=24&u=b3bbe5dfda1331d137777e940959d5067e5d2dab&v=4" alt="inamcodes" /> inamcodes</a> |6/16/2026, 5:20:55 PM|Hey! Github fam, Inam here|
 | <a href="https://github.com/arshnah"><img width="24" src="https://avatars.githubusercontent.com/u/244542448?s=24&u=c05040bb98aa0d45e4aca27327f90acbea413dc7&v=4" alt="arshnah" /> arshnah</a> |6/15/2026, 1:40:17 PM|hi guestbook|
-| <a href="https://github.com/majockbim"><img width="24" src="https://avatars.githubusercontent.com/u/162757080?s=24&u=cc64c21c9221d2fe5295ae705cdb198e3233454a&v=4" alt="majockbim" /> majockbim</a> |6/3/2026, 5:57:20 AM|C++ rocks|
-| <a href="https://github.com/abdessattar23"><img width="24" src="https://avatars.githubusercontent.com/u/106479409?s=24&u=dfa6f59da8d7fe01624ce235012297f299847aa2&v=4" alt="abdessattar23" /> abdessattar23</a> |5/28/2026, 8:00:18 PM|Ohh free backlinks to my profile lmao @abdessattar23|
 <!-- /Guestbook -->
 
 <!-- Footer -->
